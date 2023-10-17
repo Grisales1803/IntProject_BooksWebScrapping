@@ -62,7 +62,7 @@ sqlDropTable2 = "DROP TABLE IF EXISTS audit_libro;"
 cursor.execute(sqlDropTable)
 cursor.execute(sqlDropTable2)
 
-#Crea tablas
+#Create tables
 print('> We create both tables to insert the results.')
 sqlCreateTable = """CREATE TABLE IF NOT EXISTS libro (
 	IdLibro  	INT AUTO_INCREMENT,

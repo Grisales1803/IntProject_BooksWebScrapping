@@ -3,7 +3,7 @@
 <br>
 </br>
 
-#  **<p align="center">Books - Web Scrapping & MySQL Database</p>** 
+#  **<p align="center">Books - Web Scraping & MySQL Database</p>** 
 
 
 # <p align="center">Unlocking Book Market Insights: Web Scraping & Data Mastery for Top 100 Bestsellers</p>
